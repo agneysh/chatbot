@@ -1,0 +1,37 @@
+{
+  "name": "aisha",
+  "version": "2.0.0",
+  "description": "Dissertation for UTM, Project- a travel chatbot written in nodeJs. 2017",
+  "main": "aisha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Agneysh@bitbucket.org/Agneysh/dissertation.git"
+  },
+  "keywords": [
+    "travelbot",
+    "Bot",
+    "Dissertation",
+    "Project",
+    "Nodejs",
+    "Aisha",
+    "AI"
+  ],
+  "homepage": "https://bitbucket.org/Agneysh/aisha#readme",
+  "author": "Agneysh Mathura",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.2",
+    "dateformat": "^3.0.2",
+    "dotenv-extended": "^1.0.4",
+    "jsonpath": "^0.2.10",
+    "lodash": "^4.17.4",
+    "node-emoji": "^1.8.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "restify": "^4.3.0",
+    "schema-inspector": "^1.6.8"
+  }
+}
